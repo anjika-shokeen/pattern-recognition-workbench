@@ -1,0 +1,6 @@
+corruption,hog,hog+lbp,lbp,raw
+gaussian_noise,0.5002,0.3987,0.1963,0.1391
+occlusion,0.8584,0.8894,0.853,0.8152
+rotation,0.819,0.8506,0.7569,0.494
+salt_pepper,0.648,0.7175,0.6028,0.3
+shift,0.6938,0.7474,0.6862,0.3108

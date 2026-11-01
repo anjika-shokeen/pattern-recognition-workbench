@@ -1,0 +1,5 @@
+dataset,modality,samples,pattern_shape,classes,min_class,max_class,raw_dims
+digits,image,1797,16x16,10,174,183,256
+signals,signal,1200,256,6,200,200,256
+wine,tabular,178,13,3,48,71,13
+breast_cancer,tabular,569,30,2,212,357,30

@@ -1,0 +1,18 @@
+# Edit these fields and run `make report` (or: python report/build_report.py) to regenerate the PDF / DOCX.
+title: "End-to-End Pattern Recognition Workbench"
+subtitle: "Feature Extraction, Statistical Analysis, Classification, Clustering and Performance Evaluation"
+report_type: "Mini Project Report"
+course: "Pattern Recognition"
+degree: "Bachelor of Technology"
+branch: "Computer Science and Engineering"
+department: "Department of Computer Science and Engineering"
+institution: "[Name of the Institution]"
+university: "[Affiliating University]"
+guide: "[Name of the Faculty Guide]"
+guide_designation: "[Designation]"
+academic_year: "2026 - 2027"
+submission: "October 2026"
+authors:
+  - {name: "Saksham Bakshi", roll: "[Roll No.]"}
+  - {name: "Anjika Shokeen", roll: "[Roll No.]"}
+repository: "https://github.com/<your-username>/pattern-recognition-workbench"
